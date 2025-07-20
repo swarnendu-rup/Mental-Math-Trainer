@@ -1,0 +1,36 @@
+✅ How to Open and Run in BlueJ
+🔧 Step 1: Open BlueJ
+Launch the BlueJ IDE on your computer.
+
+📁 Step 2: Create a New Project
+Click on Project → New Project
+
+Name it something like: MentalMathTrainer
+
+Choose a folder to save it, then click Create
+
+📝 Step 3: Create a New Class
+Inside your project, click New Class
+
+Enter class name: MentalMathTrainer
+
+Click OK → A red box with that name will appear.
+
+💻 Step 4: Edit the Class Code
+Double-click the red box (MentalMathTrainer)
+
+Delete all the default code (class MentalMathTrainer { })
+
+Copy and paste the full Java code I gave you above
+
+Click Class → Compile (make sure there's no red error)
+
+▶️ Step 5: Run the Program
+Right-click the red class box
+
+Click on void main(String[] args)
+
+Click OK when it asks for parameters (you don't need to enter anything)
+
+Now the console will show the quiz starting
+
